@@ -1,0 +1,10 @@
+---
+layout: page
+eleventyNavigation:
+  key: home
+  order: 1
+---
+{% image {src: "src/assets/photos/header.jpg", alt: "Rainy day", className: "image", widths: [200, 800] } %}
+
+# hello
+Here is where you'll find various notes, art, writings, and so on from myself.

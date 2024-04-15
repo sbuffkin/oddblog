@@ -1,0 +1,12 @@
+{
+  "title": "oddduck",
+  "url": "https://oddduck.neocities.org/",
+  "language": "en",
+  "description": "My little personal webzone.",
+  "author": {
+    "name": "odd duck",
+    "email": "dusty@oddduck.cc"
+  },
+  "image": "/assets/header.jpg",
+  "feedUrl": "https://oddduck.neocities.org/feed.xml"
+}

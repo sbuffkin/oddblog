@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+$main-font: 'Raleway', 'Calibri', 'Trebuchet MS', 'sans-serif';
+$accent-font: 'Montagu Slab', serif;
+
+/* Colours */
+$light-shade: #b8d0f0;
+$dark-shade: #1f2c42;
+$darkest-shade: darken($dark-shade, 17%);
+$accent-shade:#267a4c;
+
+/*========================================*/
+
+$base-clr: lighten($light-shade, 7%);
+
+$bg-clr: $darkest-shade;
+$link-clr: $light-shade;
+$link-hvr-clr: $accent-shade;
+$cat-clr: $light-shade;
+
+

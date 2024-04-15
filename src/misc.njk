@@ -1,0 +1,15 @@
+---
+layout: page
+title: "misc"
+eleventyNavigation:
+    key: misc
+    order: 3
+pagination:
+  data: collections.misc
+  size: 10
+  alias: articles
+---
+
+<h1>{{ title }}</h1>
+<p>Random things I've sketched out.</p>
+{% include "./_includes/components/articleList.njk" %}
