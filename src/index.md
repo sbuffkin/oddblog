@@ -8,3 +8,5 @@ eleventyNavigation:
 
 # hello
 Here is where you'll find various notes, art, writings, and so on from myself.
+
+I'll try and make note of any major changes here.
