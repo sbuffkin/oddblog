@@ -25,4 +25,3 @@ Some of merit may eventually be turned into essays of their own if I ever get ar
 * Its bad luck to walk under a ladder cause its naturally unstable and youre putting yourself at risk. I'd bet most other "bad lucks" are likely similar in some fashion.
 
 * Music is the primordial art form. It existed even before language did, long before humanity itself walked upon the earth.
-
