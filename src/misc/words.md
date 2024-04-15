@@ -4,8 +4,9 @@ title: words
 date: 2023-01-03
 category: "lists"
 ---
+A big list of words I find neat or aesthetically pleasing somehow
+<!-- excerpt -->
 
-### A big list of words I find neat somehow
 
 \*\*Interdiction\*\*
 
