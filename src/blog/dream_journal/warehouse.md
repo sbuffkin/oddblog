@@ -5,7 +5,7 @@ date: 2023-05-05
 category: "dreams"
 ---
 
-The earliest dream that I can recall.
+The earliest dream that I can recall. From long ago in childhood.
 <!-- excerpt -->
 
 The sprawling, damp, grey backrooms of a warehouse complex. There is a hallway leading to a dark place. 
