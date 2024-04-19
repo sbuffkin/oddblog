@@ -12,6 +12,13 @@ pagination:
 
 <h1>{{ title }}</h1>
 {% include "./_includes/components/categoryNav.njk" %}
+
+
+
 <p>This view contains a list of all blogposts sorted from newest to oldest.</p>
 
 {% include "./_includes/components/articleList.njk" %}
+
+{%- for pageEntry in pagination.pages %}
+    <li class="page_list"><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>Page {{ loop.index }}</a></li>
+{%- endfor %}

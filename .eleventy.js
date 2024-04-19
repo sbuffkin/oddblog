@@ -46,6 +46,7 @@ module.exports = function(eleventyConfig) {
   /*     Layouts     */
   /*=================*/
   eleventyConfig.addLayoutAlias('page', 'layouts/page')
+  eleventyConfig.addLayoutAlias('home', 'layouts/home')
   eleventyConfig.addLayoutAlias('article', 'layouts/article')
 
 
@@ -54,6 +55,7 @@ module.exports = function(eleventyConfig) {
   /*=================*/
   eleventyConfig.addCollection('misc', getMiscPosts)
   eleventyConfig.addCollection('blog', getAllPosts)
+
   eleventyConfig.addCollection('categoryList', getCategoryList)
   eleventyConfig.addCollection('categorisedPosts', getCategorisedPosts)
 
@@ -62,7 +64,9 @@ module.exports = function(eleventyConfig) {
   /*     Filters     */
   /*=================*/
   eleventyConfig.addFilter('readableDate', readableDate)
-
+  eleventyConfig.addFilter("limit", function(array, limit) {
+    return array.slice(0, limit);
+  });
 
   /*=================*/
   /*    shortcodes   */
