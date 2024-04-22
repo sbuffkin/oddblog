@@ -3,6 +3,7 @@ layout: article
 title: tourist
 date: 2023-01-03
 category: "travel"
+blog: true
 ---
 
 on taking photos.    

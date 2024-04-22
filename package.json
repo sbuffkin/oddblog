@@ -5,6 +5,7 @@
   "main": "index.md",
   "scripts": {
     "generate:sprite": "svg-icon-generate --folder=src/assets/icons --output=src/assets/sprite.svg",
+    "watch": "eleventy --serve",
     "watch:eleventy": "eleventy --serve",
     "watch:sass": "sass --watch src/assets/theming:_site/assets",
     "build:eleventy": "eleventy",

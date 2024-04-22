@@ -3,6 +3,8 @@ layout: article
 title: opting out
 date: 2023-01-14
 category: "essays"
+blog: true
+
 ---
 
 thoughts on disconnection and disconnecting

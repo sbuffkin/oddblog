@@ -3,6 +3,7 @@ layout: article
 title: backcountry
 date: 2023-07-30
 category: "travel"
+blog: true
 ---
 
 Thoughts on going into well-worn wilderness.

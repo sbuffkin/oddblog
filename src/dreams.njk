@@ -1,20 +1,18 @@
 ---
 layout: page
-title: "stuff"
+title: "dream journal"
 eleventyNavigation:
-    key: posts
-    order: 2
+    key: dreams
+    order: 3
 pagination:
-  data: collections.blog
+  data: collections.dreams
   size: 10
   alias: articles
-blog: true
 ---
 
 <h1>{{ title }}</h1>
-{% include "./_includes/components/categoryNav.njk" %}
 
-<p>Here's where you can find various bits of my writing.</p>
+<p>My dream journal. These are all dated according to when I actually had the dream, so it's probably worth looking around in here.</p>
 
 {% include "./_includes/components/articleList.njk" %}
 

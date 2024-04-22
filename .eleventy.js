@@ -4,6 +4,7 @@ const pluginRss = require('@11ty/eleventy-plugin-rss')
 const { 
   getAllPosts, 
   getMiscPosts,
+  getDreamPosts,
   getCategoryList,
   getCategorisedPosts
 } = require('./config/collections')
@@ -55,6 +56,7 @@ module.exports = function(eleventyConfig) {
   /*=================*/
   eleventyConfig.addCollection('misc', getMiscPosts)
   eleventyConfig.addCollection('blog', getAllPosts)
+  eleventyConfig.addCollection('dreams', getDreamPosts)
 
   eleventyConfig.addCollection('categoryList', getCategoryList)
   eleventyConfig.addCollection('categorisedPosts', getCategorisedPosts)

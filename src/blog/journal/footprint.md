@@ -1,8 +1,9 @@
 ---
 layout: article
-title: backcountry
+title: a footprint
 date: 2023-07-30
 category: "travel"
+blog: true
 ---
 Visiting the natural history museum, there's all sorts of exhibits, but one small one was most striking;
 a pair of footprints in petrified mud. From some walk up a mountainside in the prehistory of mankind, the only evidence of the existence of an entire subspecies of pre-humanity.

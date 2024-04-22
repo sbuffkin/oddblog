@@ -6,7 +6,10 @@ layout: page
   <h1>{{ title }}</h1>
   <small>
     Published: <time>{{ date | readableDate }}</time>
-    <a class="category" href="/blog/{{ category }}">{{ category }}</a>
+    {% if blog %}
+      <a class="category" href="/blog/{{ category }}">{{ category }}</a>
+    {% endif %}
+
   </small>
   {{ content | safe }}
 </article>

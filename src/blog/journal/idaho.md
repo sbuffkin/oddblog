@@ -3,6 +3,7 @@ layout: article
 title: idaho
 date: 2023-01-03
 category: "travel"
+blog: true
 ---
 
 a short travelouge on driving through idaho. 

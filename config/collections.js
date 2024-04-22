@@ -4,6 +4,10 @@ const getMiscPosts = (collectionApi) => {
   return collectionApi.getFilteredByGlob('./src/misc/*.md')
   .reverse()
 }
+const getDreamPosts = (collectionApi) => {
+  return collectionApi.getFilteredByGlob('./src/dream_journal/*.md')
+  .reverse()
+}
 /* Creating a collection containing all blogposts by filtering based on folder and filetype */
 const getAllPosts = (collectionApi) => {
   return collectionApi.getFilteredByGlob('./src/blog/*/*.md')
@@ -62,6 +66,7 @@ const getCategorisedPosts = (collectionApi) => {
 module.exports = {
   getAllPosts,
   getMiscPosts,
+  getDreamPosts,
   getCategoryList,
   getCategorisedPosts
 }

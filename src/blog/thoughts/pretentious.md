@@ -3,6 +3,8 @@ layout: article
 title: pretentious
 date: 2023-01-03
 category: "essays"
+blog: true
+
 ---
 A Pretentious essay about preteniousness
 <!-- excerpt -->

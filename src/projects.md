@@ -2,7 +2,7 @@
 layout: page
 eleventyNavigation:
   key: projects
-  order: 4
+  order: 5
 ---
 
 A list of stuff I've been working on. Hoping it will expand as time goes on.
