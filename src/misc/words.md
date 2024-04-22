@@ -3,6 +3,8 @@ layout: article
 title: words
 date: 2023-01-03
 category: "lists"
+misc: true
+
 ---
 A big list of words I find neat or aesthetically pleasing somehow
 <!-- excerpt -->

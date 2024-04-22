@@ -1,0 +1,35 @@
+{%- if blog %}
+ {%- set col = collections.blog %}
+{% elif misc %}
+ {%- set col = collections.misc %}
+{% else %}
+ {%- set col = collections.dreams %}
+{% endif %}
+
+
+{%- set nextPost = col | getNextCollectionItem(page) %}
+{%- set previousPost = col | getPreviousCollectionItem(page) %}
+
+
+
+{%- if nextPost or previousPost %}
+
+<div class="pagenav">
+<nav {% if not previousPost %} class="float-right"{% endif %} aria-labelledby="post-navigation max-w-2xl" >
+<div class="navlinks" >
+
+  {%- if previousPost %}<div>
+      <a class="navlink" href="{{ previousPost.url | url }}"><p>< Previous post:</p>
+          <p>"{{ previousPost.data.title }}"</p></a>
+  </div>{% endif %}
+
+
+  {%- if nextPost %}<div>
+      <a class="navlink" href="{{ nextPost.url | url }}"><p>Next post:></p>
+          <p> "{{ nextPost.data.title }}"</p></a>
+  </div>{% endif %}
+</div>
+
+{%- endif %}
+</nav>
+</div>

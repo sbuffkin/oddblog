@@ -3,6 +3,7 @@ layout: article
 title: musings
 date: 2024-04-14
 category: "lists"
+misc: true
 ---
 
 Just a bunch of stuff that crossed my mind at some point, I make no claims to any of it being correct or not stupid. 

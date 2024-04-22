@@ -26,4 +26,15 @@ article {
       margin-top: 1em;
     }
   }
+  .navlinks{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-between;
+  }
+  .navlink{
+    font-size: 0.80em;
+    margin:1em;
+  }
+
 }
