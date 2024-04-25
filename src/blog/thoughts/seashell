@@ -3,10 +3,10 @@ layout: article
 title: meat
 date: 2023-01-03
 category: "essays"
----
-  a website.    
+blog: true
 
-### A title
+---
+
 
 Too many writers in general write in an apathetic fashion. They are able to create worlds that are beautiful without connecting with the player in a raw emotional sense in the slightest.
 
