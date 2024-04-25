@@ -1,7 +1,7 @@
 ---
 layout: article
 title: musings
-date: 2024-04-14
+date: 2024-04-24
 category: "lists"
 misc: true
 ---
