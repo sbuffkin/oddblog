@@ -1,6 +1,6 @@
 ---
 layout: article
-title: memory maintenence
+title: memory maintenance
 date: 2024-04-25
 category: "essays"
 blog: true
