@@ -44,6 +44,8 @@ For me, I had a few issues at first. I searched for my domains every so often, b
 Clearly, my site has more than 0 documents. 
 
 Naturally, I assumed this was a me issue, and so tried a few things on my end. Editing my sitemap, editing my robots, and just generally poking around on marginalia thinking I'd just missed a button somewhere.
-I sat on this far too long, but I finally emailed about this the other day, and within hours and a few quick email responses later the issue was found and a temporary fix was built. A few days after, my site began showing up in results properly!
+I sat on this far too long, but I finally emailed about this the other day, and within hours and a few quick email responses later the issue was found and a temporary fix was built. It got about halfway there, it's now indexing the abandoned bits of my site. An additional fix was put out and it seems that that should help things show up in about a month or so.
 
+
+### Final thoughts. 
 The only way these sorts of projects get the level of polish they need to shine is for lots of people to use em and report whatever breaks, or seems off, so make sure to!  Even if it seems like its on your end, even if it seems minor, it's very likely to be causing issues for many other people. As a software dev myself, I can say this sort of end-user testing is invaluable for making any application truly robust, but obviously it only goes as far as communication from end users. We're all supporting each other in cultivating a healthy ecosystem for the growth of real, personal websites again. So participate where you can, even if its just submitting your website for crawling, or even just using a search engine like marginalia on occasion; every little bit makes the whole garden greener.

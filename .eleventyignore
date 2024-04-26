@@ -1,3 +1,4 @@
 README.md
 devnotes/
-pageblurbs/
+src/pageblurbs/*.md
+src/drafts/
