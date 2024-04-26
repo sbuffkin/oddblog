@@ -20,6 +20,6 @@ If you would like to ask me about anything on here, or just to chat, feel free t
 
 
 Here's my site button:
-[{% image {src: "src/assets/photos/button.png", alt: "my button", className: "image", widths: [88, 31] } %}](oddduck.neocities.org)
+[{% image {src: "src/assets/photos/button.png", alt: "my button", className: "image", widths: [88, 31] } %}](/directory)
 
 
