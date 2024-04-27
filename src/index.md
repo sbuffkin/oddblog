@@ -18,8 +18,10 @@ For the foreseeable future, I'm going to try and update daily. This will probabl
 
 If you would like to ask me about anything on here, or just to chat, feel free to [email me](mailto:writer@oddduck.aleeas.com).
 
+<br>
+<br>
 
-Here's my site button:
-[{% image {src: "src/assets/photos/button.png", alt: "my button", className: "image", widths: [88, 31] } %}](/directory)
+Here's my site button if you so desire. It links to my soon-to-be-populated link directory for now:
+[{% image {src: "src/assets/buttons/button.png", alt: "my button", className: "image", widths: [88, 31] } %}](/directory)
 
 
