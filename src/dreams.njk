@@ -11,10 +11,9 @@ pagination:
 ---
 
 <h1>{{ title }}</h1>
-
+{% markdown %}
 {% include "./pageblurbs/dreamblurb.md" %}
-
-
+{% endmarkdown %}
 {% include "./_includes/components/articleList.njk" %}
 
 {%- for pageEntry in pagination.pages %}

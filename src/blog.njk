@@ -13,8 +13,9 @@ blog: true
 
 <h1>{{ title }}</h1>
 {% include "./_includes/components/categoryNav.njk" %}
-
+{% markdown %}
 {% include "./pageblurbs/blogblurb.md" %}
+{% endmarkdown %}
 
 {% include "./_includes/components/articleList.njk" %}
 

@@ -4,6 +4,7 @@ title: why keep a dream diary
 date: 2024-05-01
 category: "essays"
 blog: true
+permalink: "/blog/why_dream.html"
 ---
 
 Since so far I've mostly been using this site as a place to dump my dream diary archives, I thought I'd take some time to mull over what makes keeping one so compelling to me. 

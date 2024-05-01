@@ -4,7 +4,6 @@ title: thought
 date: 2023-01-03
 category: "essays"
 blog: true
-
 ---
 art as a crystalization of thought.
 <!-- excerpt -->

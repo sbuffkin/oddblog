@@ -1,5 +1,6 @@
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation')
 const pluginRss = require('@11ty/eleventy-plugin-rss')
+const markdownIt = require("markdown-it");
 
 const { 
   getAllPosts, 
@@ -19,6 +20,14 @@ const {
 
 
 module.exports = function(eleventyConfig) {
+
+  const md = new markdownIt({
+    html: true
+  });
+  eleventyConfig.addPairedShortcode("markdown", (content) => {
+    return md.render(content);
+  });
+
   
   /*================================*/
   /*   plugins and configurations   */
@@ -49,6 +58,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('page', 'layouts/page')
   eleventyConfig.addLayoutAlias('home', 'layouts/home')
   eleventyConfig.addLayoutAlias('article', 'layouts/article')
+  eleventyConfig.addLayoutAlias('blurb', 'layouts/blurb')
 
 
   /*=================*/
