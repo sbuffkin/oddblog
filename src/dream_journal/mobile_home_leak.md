@@ -6,6 +6,7 @@ category: "dreams"
 ---
 
 Riding along with my parents in the back of their massive, staggeringly huge mobile home. It felt like being in a luxury Semi Truck that's been hollowed out front to back. I sat on a couch, talking across the way to a friend as we rode through a campground. It was a very bumpy ride, but we kept ourselves occupied chatting. I watched the forest and other RVs go by as we circled around, and around, and around. Soon enough I got fed up as we had passed many open places. 
+
 "where are we even going? park already"
 My dad begrudgingly selected a spot and backed all the way in, so fast it felt reckless.
 
