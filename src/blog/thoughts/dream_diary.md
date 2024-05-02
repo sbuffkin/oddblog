@@ -7,7 +7,7 @@ blog: true
 permalink: "/blog/why_dream.html"
 ---
 
-Since so far I've mostly been using this site as a place to dump my dream diary archives, I thought I'd take some time to mull over what makes keeping one so compelling to me. 
+Since so far I've mostly been using this site as a place to dump my dream diary archives, I thought I'd take some time to mull over what makes keeping one so compelling to me.
 <!-- excerpt -->
 
 This won't be a particularly structured argument or anything, just some odds and ends as to why. I will probably revisit this to make it a bit less of a rough draft in the future.

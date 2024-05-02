@@ -12,8 +12,8 @@ As we attempt to sit at a booth, a homeless looking black man slides into my sid
  We all order beverages, I believe I get something akin to an italian soda. Everyone else nurses theirs, but I gulp mine down ravenously. As I finish it the multilevel bus train hits a bump in the road, causing a spill that gets a good bit of sauce on my pants. The hostess apologizes profusely and goes to get cleaning supplies and asks if I want anything else, I tell her water is fine.
  
  I pore over the menu all the while, a flimsy printed sheet. There are many odd things on it, mostly what seems to be strange twists on diner food in quite generous portions. 0 calorie burgers, announces one section. The deserts are mostly premade looking things, ice cream bars and churros, but I don't pay it much mind. Under the table there's a sandwich, seemingly stashed there by our homeless tablemate. It is massive, chock full of fish salad and glistening generous chunks of cucumber, amongst other things, on a large hollowed out crusty loaf of bread. I decide I want this, and ask him how it is. He barks,
-  "Its got bones. 
+"Its got bones. 
 You gotta pick em out."
-  
+
   
 I'm confused by this as it seems to be a tuna sandwich, but as he repeats it incessantly I believe him.
