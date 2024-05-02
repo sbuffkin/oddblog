@@ -6,6 +6,7 @@ category: "essays"
 blog: true
 
 ---
+
 A Pretentious essay about preteniousness
 <!-- excerpt -->
 

@@ -4,8 +4,8 @@ title: anti anti natalism
 date: 2023-06-30
 category: "essays"
 blog: true
-
 ---
+
 A rebuttal against one silly argument for antinatalism among many other silly arguments.
 <!-- excerpt -->
 

@@ -5,6 +5,7 @@ date: 2024-04-25
 category: "essays"
 blog: true
 ---
+
 thoughts on memories over time
 <!-- excerpt -->
 
