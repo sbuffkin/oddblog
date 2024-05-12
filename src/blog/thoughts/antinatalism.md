@@ -9,7 +9,6 @@ blog: true
 A rebuttal against one silly argument for antinatalism among many other silly arguments.
 <!-- excerpt -->
 
-{% image {src: "src/assets/photos/meadow.jpg", alt: "a forest meadow", className: "image", widths: [300, 600] } %}
 
 
 I recently watched [a video](https://www.youtube.com/watch?v=6O5S2Y4FhJ0) explaining anti natalism.

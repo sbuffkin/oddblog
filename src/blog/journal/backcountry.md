@@ -9,6 +9,8 @@ blog: true
 Thoughts on going into well-worn wilderness.
 <!-- excerpt -->
 
+{% image {src: "src/assets/photos/meadow.jpg", alt: "a forest meadow", className: "image", widths: [300, 600] } %}
+
 
 The backcountry is vast but dense, gnarled and twisted and ingrown and rocky. The deep wood doesn't just gently stay at the same lax elevation gradients, beckoning you along the same sad tired trees as anywhere else you've been staring at the entire time. It is fantastic tableaus set out before you, one after another. All unique in their rugged beauty. You can feel at ease among these things, despite in many ways courting death much closer than you would at any time in your placid and manicured day-to-day lifestyle. In your mind, you may picture the gentle unchanging nature of a city or neighborhood park, yet this is very far from the reality in even the most urban-adjacent of backcountry parks.
 
