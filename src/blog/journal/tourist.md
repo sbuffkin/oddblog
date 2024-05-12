@@ -21,6 +21,7 @@ Even so, I continue to take them. The odd thing is that even without them I have
 A wandering eye of sorts. Perhaps the photos are to confirm to myself I was there? To try and capture some sort of magic moment of that fleeting present for myself? I go, and I'm the operator of the camera. Sometimes I don't feel as though I appreciate what is in front of me until I look at the photos later on. The odder thing still is how flat and lifeless they feel by comparison. Stranger yet is when they become background noise, a phone wallpaper or the like. Seeing them constantly, but unthinkingly. This moment, one I was fully immersed in at one point, has become a bit of static. It's fascinating how distant you can feel to photos, how they feel like a falsehood somehow. Your own photography and others all blended together into a facsimile of memory.
 
 Yet still, in special moments when your heart is calm and you find yourself in the right mind and they suddenly whisk you off, teleporting you to the strange land of time gone by. Walking quietly in the groves of memory can be a nice thing. It's not good to live in the past, but to visit it once in a while is important.
+
 {% image {src: "src/assets/photos/beach.jpg", alt:"a beach sunset", className: "image", widths: [800, 800] } %}
 
   

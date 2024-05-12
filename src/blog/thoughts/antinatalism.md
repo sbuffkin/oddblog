@@ -9,6 +9,8 @@ blog: true
 A rebuttal against one silly argument for antinatalism among many other silly arguments.
 <!-- excerpt -->
 
+{% image {src: "src/assets/photos/meadow.jpg", alt: "a forest meadow", className: "image", widths: [300, 600] } %}
+
 
 I recently watched [a video](https://www.youtube.com/watch?v=6O5S2Y4FhJ0) explaining anti natalism.
 The crux of it seems to be, "suffering exists, pleasure exists, suffering is a cancer upon existence". This creates a sort of pascal's wager-esque diagram of the value proposition of a world with neither vs a world with both and a world with only each. The theory goes, suffering is an ill unto itself, and any suffering outweighs any pleasure. Pleasure is not a good unto itself, as any suffering negates it. It is better to have a world without either than it is to allow suffering to exist. 

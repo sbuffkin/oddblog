@@ -5,6 +5,8 @@ date: 2023-07-30
 category: "travel"
 blog: true
 ---
+
+
 {% image {src: "src/assets/photos/overlook.jpg", alt: "a mountain overlook", className: "image", widths: [300, 600] } %}
 
 
