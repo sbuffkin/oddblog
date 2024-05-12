@@ -8,6 +8,7 @@ blog: true
 
 thoughts on memories over time
 <!-- excerpt -->
+{% image {src: "src/assets/photos/car.jpg", alt: "an abandoned car", className: "image", widths: [300, 600] } %}
 
 Once you realize how fragile and limited a person's memory actually is a lot of things begin to make sense, and many more take on a slightly unnerving air. Just think of how many examples in everyday life you hear of someone talking about how they've forgotten something they couldn't possibly have, something they saw or experienced many times over in their day to day life at one point. Just rubbed away. It is really something to be grateful for in some cases, but at the same time should be abjectly terrifying. You get bits and pieces of things as you go. You can't even remember writing something from a few years ago, even if you can see a reflection of yourself from then within it. Really, writing as a process is just the capturing and further refining of streams of consciousness from a certain point in your own life. 
 

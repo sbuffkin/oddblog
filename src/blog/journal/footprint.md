@@ -5,6 +5,9 @@ date: 2023-07-30
 category: "travel"
 blog: true
 ---
+{% image {src: "src/assets/photos/overlook.jpg", alt: "a mountain overlook", className: "image", widths: [300, 600] } %}
+
+
 Visiting the natural history museum, there's all sorts of exhibits, but one small one was most striking;
 a pair of footprints in petrified mud. From some walk up a mountainside in the prehistory of mankind, the only evidence of the existence of an entire subspecies of pre-humanity.
 
