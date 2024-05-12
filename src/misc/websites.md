@@ -8,7 +8,12 @@ misc: true
 
 A list of interesting websites I've found. 
 
-https://oneminutepark.tv/
+[one minute park](https://oneminutepark.tv/)
 
-https://slowerhiking.com/
+[slower hiking](https://slowerhiking.com/)
 
+[marginalia](https://search.marginalia.nu/)
+
+[frogfind](http://frogfind.com/)
+
+[goofcraft](https://goofcraft.biz/)
