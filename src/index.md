@@ -9,9 +9,10 @@ eleventyNavigation:
 # hello
 Here is where you'll find various notes, art, writings, and so on from myself.
 
-I'll try and make note of any major changes here.
+I'll try and make note of any major changes here. 
 
 For the foreseeable future, I'm going to try and update daily. This will probably mostly be me adding to my dream journal from my archives, but don't be surprised if the layout, style, or otherwise goes through a lot of shifts. 
+I'm going to try and include more photography. Everything on the website is my own.
 
 <br>
 <br>

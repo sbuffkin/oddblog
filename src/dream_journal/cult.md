@@ -4,6 +4,7 @@ title: cult
 date: 2022-03-04
 category: "dreams"
 ---
+
 Somehow almost a full short story.
 <!-- excerpt -->
 
