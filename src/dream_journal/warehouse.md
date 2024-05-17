@@ -1,11 +1,11 @@
 ---
 layout: article
 title: warehouse
-date: 2023-05-05
+date: 2000-01-01
 category: "dreams"
 ---
 
-The earliest dream that I can recall. From long ago in childhood.
+The earliest dream that I can recall. From long ago in childhood. Date unknown so I guessed.
 <!-- excerpt -->
 
 The sprawling, damp, grey backrooms of a warehouse complex. There is a hallway leading to a dark place. 
