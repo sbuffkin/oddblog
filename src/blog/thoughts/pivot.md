@@ -1,7 +1,7 @@
 ---
 layout: article
 title: pivot
-date: 2024-15-05
+date: 2024-05-15
 category: "essays"
 blog: true
 ---
