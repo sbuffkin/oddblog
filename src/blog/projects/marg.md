@@ -6,6 +6,9 @@ category: "tech"
 blog: true
 ---
 
+Troubleshooting on a smallweb search engine.
+<!-- excerpt -->
+
 
 I'm quite the fan of getting off the beaten path, and so that has led me to be quite the fan of what they call "the small web". And as such, I quite like [marginalia](https://search.marginalia.nu/). It is a one-man project attempting to index and catalog everything off the beaten path (hence, "marginalia", a very nice [word](words.md)), and I genuinely think it stands to become more useful than many big-name search engines for many use cases quite soon. Please give it a look sometime. What's more, if you're reading this as someone curating your own website on here, please submit it for crawling! I'll get into detail on how to do that in here.
 
