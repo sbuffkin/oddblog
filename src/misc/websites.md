@@ -17,3 +17,5 @@ A list of interesting websites I've found.
 [frogfind](http://frogfind.com/)
 
 [goofcraft](https://goofcraft.biz/)
+
+[idaho hot springs](https://www.idahohotsprings.com/)
