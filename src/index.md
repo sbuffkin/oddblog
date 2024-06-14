@@ -11,8 +11,11 @@ Here is where you'll find various notes, art, writings, and so on from myself.
 
 I'll try and make note of any major changes here. 
 
-For the foreseeable future, I'm going to try and update daily. This will probably mostly be me adding to my dream journal from my archives, but don't be surprised if the layout, style, or otherwise goes through a lot of shifts. 
-I'm going to try and include more photography. Everything on the website is my own.
+I've still got a bit of my dream archive left to go through, but as you can see I've somewhat run through my archives. I'll post new ones as they happen.
+I have a few projects I'm intending to do soon, but for now I think I may focus on getting a few galleries of my art and photography up. 
+I have some ideas for the design of this website, but I've grown somewhat fond of the current overall look, so I think I will add things to compliment and accent it soon. 
+
+Everything on the website is my own.
 
 <br>
 <br>
