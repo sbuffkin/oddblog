@@ -1,6 +1,6 @@
 ---
 layout: article
-title: warehouse
+title: giant monster
 date: 2019-08-16
 category: "dreams"
 ---
