@@ -7,7 +7,8 @@ const {
   getMiscPosts,
   getDreamPosts,
   getCategoryList,
-  getCategorisedPosts
+  getCategorisedPosts,
+  getSketchPosts
 } = require('./config/collections')
 
 const { 
@@ -58,6 +59,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('page', 'layouts/page')
   eleventyConfig.addLayoutAlias('home', 'layouts/home')
   eleventyConfig.addLayoutAlias('article', 'layouts/article')
+  eleventyConfig.addLayoutAlias('gallery', 'layouts/gallery')
   eleventyConfig.addLayoutAlias('blurb', 'layouts/blurb')
 
 
@@ -67,6 +69,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('misc', getMiscPosts)
   eleventyConfig.addCollection('blog', getAllPosts)
   eleventyConfig.addCollection('dreams', getDreamPosts)
+  eleventyConfig.addCollection('sketch', getSketchPosts)
 
   eleventyConfig.addCollection('categoryList', getCategoryList)
   eleventyConfig.addCollection('categorisedPosts', getCategorisedPosts)

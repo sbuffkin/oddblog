@@ -2,7 +2,7 @@
 {% image {src: "src/assets/photos/rooms.jpg", alt: "strange rooms", className: "image", widths: [300, 600] } %}
 
 
-My dream journal. I try to update this rather often as I dream rather often.
+My dream journal. I endeavored to update this rather often as I dream rather often.
 
 If you'd like to read my thoughts on dream journaling, well just [look here](/blog/why_dream.html). 
 

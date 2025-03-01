@@ -11,16 +11,18 @@ Here is where you'll find various notes, art, writings, and so on from myself.
 
 I'll try and make note of any major changes here. 
 
-I've still got a bit of my dream archive left to go through, but as you can see I've somewhat run through my archives. I'll post new ones as they happen.
-I have a few projects I'm intending to do soon, but for now I think I may focus on getting a few galleries of my art and photography up. 
-I have some ideas for the design of this website, but I've grown somewhat fond of the current overall look, so I think I will add things to compliment and accent it soon. 
+I've added a few [sketchbooks](/sketchbook). Right now its a little threadbare, but I'll try and go through and write some thoughts on them later and add some more stuff. 
+
+I've actually got quite a few dreams yet to post, but I haven't really gotten around to editing them. I haven't dreamt much I remember well lately.
+
+I'd like to actually get something done this year, so hopefully I'll have a project to show off sooner or later. It doesn't do well to say things like that, but I'll at least keep it non-specific.
 
 Everything on the website is my own.
 
 <br>
 <br>
 
-If you would like to ask me about anything on here, or just to chat, feel free to [email me](mailto:writer@oddduck.aleeas.com).
+If you would like to ask me about anything on here, or just to chat, feel free to [email me](mailto:dusty@oddduck.cc).
 
 <br>
 <br>

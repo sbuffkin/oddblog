@@ -1,0 +1,21 @@
+---
+layout: page
+title: "sketchbook"
+eleventyNavigation:
+    key: sketchbook
+    order: 4
+pagination:
+  data: collections.sketch
+  size: 10
+  alias: articles
+---
+
+<h1>{{ title }}</h1>
+{% markdown %}
+{% include "./pageblurbs/sketchblurb.md" %}
+{% endmarkdown %}
+{% include "./_includes/components/articleList.njk" %}
+
+{%- for pageEntry in pagination.pages %}
+    <li class="page_list"><a href="{{ pagination.hrefs[ loop.index0 ] }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>Page {{ loop.index }}</a></li>
+{%- endfor %}

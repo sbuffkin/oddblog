@@ -6,7 +6,10 @@ layout: page
   <h1>{{ title }}</h1>
   <small>
     Published: <time>{{ date | readableDate }}</time>
-    <a class="category" href="/gallery/{{ category }}">{{ category }}</a>
+
   </small>
   {{ content | safe }}
+  <br/>
+  <a href="/sketchbook"> back to sketchbooks </a>
 </article>
+
