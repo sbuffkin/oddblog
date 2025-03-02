@@ -1,5 +1,4 @@
 name: Deploy Weekly
-uses: WebFreak001/deploy-nightly@v3.2.0
 
 on:
   schedule:
