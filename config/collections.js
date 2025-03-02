@@ -8,6 +8,12 @@ const getDreamPosts = (collectionApi) => {
   return collectionApi.getFilteredByGlob('./src/dream_journal/*.md')
   .reverse()
 }
+const getRandomDreamPosts = (collectionApi) => {
+  var dreams = collectionApi.getFilteredByGlob('./src/dream_journal/*.md')
+  dreams.sort((a, b) => Math.random() - 0.5);
+  return dreams
+}
+
 const getSketchPosts = (collectionApi) => {
   return collectionApi.getFilteredByGlob('./src/sketchbook/*.md')
   .reverse()
@@ -71,6 +77,7 @@ module.exports = {
   getAllPosts,
   getMiscPosts,
   getDreamPosts,
+  getRandomDreamPosts,
   getSketchPosts,
   getCategoryList,
   getCategorisedPosts

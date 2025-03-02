@@ -6,6 +6,7 @@ const {
   getAllPosts, 
   getMiscPosts,
   getDreamPosts,
+  getRandomDreamPosts,
   getCategoryList,
   getCategorisedPosts,
   getSketchPosts
@@ -69,6 +70,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('misc', getMiscPosts)
   eleventyConfig.addCollection('blog', getAllPosts)
   eleventyConfig.addCollection('dreams', getDreamPosts)
+  eleventyConfig.addCollection('randomdreams', getRandomDreamPosts)
   eleventyConfig.addCollection('sketch', getSketchPosts)
 
   eleventyConfig.addCollection('categoryList', getCategoryList)

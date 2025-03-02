@@ -3,6 +3,7 @@ layout: gallery
 title: robots and girls
 date: 2025-03-01
 category: "sketch"
+sketchbook: true
 ---
 
 Girls or robots, or both. 

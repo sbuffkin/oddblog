@@ -3,6 +3,7 @@ layout: gallery
 title: birds
 date: 2025-03-01
 category: "sketch"
+sketchbook: true
 ---
 
 

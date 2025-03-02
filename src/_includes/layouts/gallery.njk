@@ -8,7 +8,7 @@ layout: page
     Published: <time>{{ date | readableDate }}</time>
 
   </small>
-  {{ content | safe }}
+  {{ content | safe | nl2br }}
   <br/>
   <a href="/sketchbook"> back to sketchbooks </a>
 </article>

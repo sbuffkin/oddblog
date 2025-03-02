@@ -3,6 +3,7 @@ layout: gallery
 title: prints
 date: 2025-03-01
 category: "sketch"
+sketchbook: true
 ---
 
 Some print work from the past several years.
