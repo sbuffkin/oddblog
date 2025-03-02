@@ -1,9 +1,9 @@
-- name: Deploy Weekly
-  uses: WebFreak001/deploy-nightly@v3.2.0
+name: Deploy Weekly
+uses: WebFreak001/deploy-nightly@v3.2.0
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/2 * * * *'
     #- cron: '0 0 * * 1' # Runs at midnight UTC every monday
   workflow_dispatch:
 
