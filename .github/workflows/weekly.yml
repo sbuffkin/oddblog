@@ -2,7 +2,8 @@ name: Daily deploy to neocities
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # Runs at midnight UTC every monday
+    - cron: `*/5 * * * *` 
+    #- cron: '0 0 * * 1' # Runs at midnight UTC every monday
 
 concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
