@@ -1,13 +1,16 @@
-name: Daily deploy to neocities
+- name: Deploy Weekly
+  uses: WebFreak001/deploy-nightly@v3.2.0
 
 on:
   schedule:
     - cron: '*/5 * * * *'
     #- cron: '0 0 * * 1' # Runs at midnight UTC every monday
+  workflow_dispatch:
 
 concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
   cancel-in-progress: true
+
 
 jobs:
   deploy:
