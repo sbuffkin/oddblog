@@ -29,4 +29,5 @@ A traveling priest entering a frontier town.
  
  
 
+{% image {src: "src/assets/art/prints/cat.jpg", alt: "cat", className: "image", widths: [500] } %}
 
