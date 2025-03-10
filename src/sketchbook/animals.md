@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: birds
-date: 2025-03-01
+date: 2025-03-07
 category: "sketch"
 sketchbook: true
 ---
@@ -20,8 +20,6 @@ sketchbook: true
 
 
 {% image {src: "src/assets/art/bird/peacock_2.jpg", alt: "crow", className: "image", widths: [700] } %}
-
-
 
 
 {% image {src: "src/assets/art/bird/kiwi.jpg", alt: "crow", className: "image", widths: [700] } %}

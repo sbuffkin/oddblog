@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: robots and girls
-date: 2025-03-01
+date: 2025-03-09
 category: "sketch"
 sketchbook: true
 ---
@@ -14,6 +14,8 @@ Girls or robots, or both.
 
 {% image {src: "src/assets/art/robots/3.jpg", alt: "spire", className: "image", widths: [600] } %}
  
+ 
+{% image {src: "src/assets/art/anime/1.jpg", alt: "sad", className: "image", widths: [600] } %}
  
 
 {% image {src: "src/assets/art/robots/0.jpg", alt: "spider", className: "image", widths: [600] } %}
