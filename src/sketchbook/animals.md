@@ -1,7 +1,7 @@
 ---
 layout: gallery
-title: birds
-date: 2025-03-07
+title: birds & friends
+date: 2025-03-15
 category: "sketch"
 sketchbook: true
 ---
@@ -12,6 +12,7 @@ sketchbook: true
 
 {% image {src: "src/assets/art/bird/bacd.png", alt: "caw", className: "image", widths: [700] } %}
 
+{% image {src: "src/assets/art/bird/witch_bird.jpg", alt: "small bird with witch hat", className: "image", widths: [700] } %}
 
 {% image {src: "src/assets/art/bird/pigd.jpg", alt: "pidgeon", className: "image", widths: [700] } %}
 
@@ -25,6 +26,5 @@ sketchbook: true
 {% image {src: "src/assets/art/bird/kiwi.jpg", alt: "crow", className: "image", widths: [700] } %}
 
 
-
-
+{% image {src: "src/assets/art/bird/img148.jpg", alt: "crow", className: "image", widths: [700] } %}
 
