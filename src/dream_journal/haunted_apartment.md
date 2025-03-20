@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: haunted apartment
 date: 2024-08-14
 category: "dreams"

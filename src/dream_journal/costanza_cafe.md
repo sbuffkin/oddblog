@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: costanza cafe
 date: 2022-06-03
 category: "dreams"

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: ball lightning
 date: 2024-01-13
 category: "dreams"

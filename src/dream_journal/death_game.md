@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: cult
 date: 2024-01-31
 category: "dreams"

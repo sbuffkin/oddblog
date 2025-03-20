@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: forestlike bookstore
 date: 2023-05-10
 category: "dreams"

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: olympics
 date: 2025-01-25
 category: "dreams"

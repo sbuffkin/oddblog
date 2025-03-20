@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: strange tea
 date: 2024-02-17
 category: "dreams"

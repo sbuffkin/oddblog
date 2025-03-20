@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: parking lot
 date: 2023-08-08
 category: "nightmares"

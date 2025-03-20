@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: late diner
 date: 2022-01-23
 category: "dreams"

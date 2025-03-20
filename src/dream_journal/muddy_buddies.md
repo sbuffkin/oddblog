@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: muddy buddies
 date: 2024-05-12
 category: "dreams"

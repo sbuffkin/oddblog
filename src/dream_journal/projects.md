@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: chapel
 date: 2023-04-23
 category: "dreams"

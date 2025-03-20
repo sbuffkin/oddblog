@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: basement
 date: 2023-07-02
 category: "dreams"

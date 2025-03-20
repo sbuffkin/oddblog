@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: the end of the world
 date: 2022-01-21
 category: "dreams"

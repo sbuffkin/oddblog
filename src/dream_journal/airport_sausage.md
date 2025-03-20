@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: airport sausage
 date: 2024-02-14
 category: "dreams"

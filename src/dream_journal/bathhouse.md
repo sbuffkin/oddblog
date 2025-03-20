@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: wilderness bathhouse
 date: 2024-02-17
 category: "dreams"

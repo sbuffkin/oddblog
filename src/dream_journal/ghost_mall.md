@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: ghost mall
 date: 2022-06-03
 category: "dreams"

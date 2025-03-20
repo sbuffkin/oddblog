@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: bugging out
 date: 2024-06-12
 category: "dreams"

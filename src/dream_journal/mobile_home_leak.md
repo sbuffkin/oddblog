@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: mobile home leak
 date: 2023-12-08
 category: "dreams"

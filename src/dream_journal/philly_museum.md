@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: liberty bell climb
 date: 2022-01-21
 category: "dreams"

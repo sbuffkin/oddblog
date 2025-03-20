@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: train atrium
 date: 2024-05-13
 category: "dreams"

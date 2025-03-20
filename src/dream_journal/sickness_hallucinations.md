@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: sickness hallucinations
 date: 2023-07-06
 category: "dreams"

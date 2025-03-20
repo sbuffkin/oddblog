@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: mansion maze
 date: 2023-05-09
 category: "dreams"

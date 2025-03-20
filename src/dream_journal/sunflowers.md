@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: several sunflowers
 date: 2024-02-17
 category: "dreams"

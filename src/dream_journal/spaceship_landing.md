@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: spaceship
 date: 2022-01-27
 category: "dreams"

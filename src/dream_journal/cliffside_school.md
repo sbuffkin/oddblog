@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: cliffside school
 date: 2024-04-06
 category: "dreams"

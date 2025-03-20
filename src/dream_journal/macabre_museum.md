@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: macabre museum
 date: 2023-08-31
 category: "dreams"

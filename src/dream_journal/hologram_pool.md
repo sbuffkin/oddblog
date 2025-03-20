@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: hologram pool
 date: 2022-06-27
 category: "dreams"

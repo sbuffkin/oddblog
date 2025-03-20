@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: apartment rooms
 date: 2022-01-11
 category: "dreams"

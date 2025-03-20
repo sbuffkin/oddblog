@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: warehouse
 date: 2000-01-01
 category: "dreams"

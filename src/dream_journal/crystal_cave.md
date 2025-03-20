@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: crystal cave
 date: 2023-05-10
 category: "dreams"

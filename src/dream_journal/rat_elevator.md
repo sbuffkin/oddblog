@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: rat elevator
 date: 2023-11-04
 category: "dreams"

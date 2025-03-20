@@ -60,6 +60,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('page', 'layouts/page')
   eleventyConfig.addLayoutAlias('home', 'layouts/home')
   eleventyConfig.addLayoutAlias('article', 'layouts/article')
+  eleventyConfig.addLayoutAlias('dream', 'layouts/dream')
   eleventyConfig.addLayoutAlias('gallery', 'layouts/gallery')
   eleventyConfig.addLayoutAlias('blurb', 'layouts/blurb')
 
@@ -72,7 +73,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('dreams', getDreamPosts)
   eleventyConfig.addCollection('randomdreams', getRandomDreamPosts)
   eleventyConfig.addCollection('sketch', getSketchPosts)
-
   eleventyConfig.addCollection('categoryList', getCategoryList)
   eleventyConfig.addCollection('categorisedPosts', getCategorisedPosts)
 

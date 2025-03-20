@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: beer festival
 date: 2022-01-05
 category: "dreams"

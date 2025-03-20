@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: swamp
 date: 2023-04-11
 category: "dreams"

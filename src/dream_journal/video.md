@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: video
 date: 2025-01-17
 category: "dreams"

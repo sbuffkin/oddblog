@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: multilevel diner
 date: 2023-04-09
 category: "dreams"

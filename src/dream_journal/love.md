@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: a goodbye
 date: 2023-07-28
 category: "dreams"

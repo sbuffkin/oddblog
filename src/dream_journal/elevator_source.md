@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: elevator source
 date: 2023-12-22
 category: "dreams"

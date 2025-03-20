@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: cult
 date: 2022-03-04
 category: "dreams"

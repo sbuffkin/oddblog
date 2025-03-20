@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: eccentric college
 date: 2023-12-18
 category: "dreams"

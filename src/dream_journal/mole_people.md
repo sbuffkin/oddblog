@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: mole people
 date: 2020-12-20
 category: "dreams"

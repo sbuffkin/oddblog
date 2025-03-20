@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: harbor chase
 date: 2024-04-30
 category: "dreams"

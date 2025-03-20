@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: elevator fall
 date: 2023-08-20
 category: "dreams"

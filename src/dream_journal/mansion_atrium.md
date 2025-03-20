@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: mansion atrium
 date: 2023-04-30
 category: "dreams"

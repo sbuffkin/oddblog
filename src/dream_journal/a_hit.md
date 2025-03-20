@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: a hit gone wrong
 date: 2023-05-11
 category: "dreams"

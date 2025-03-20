@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: exotic fruits
 date: 2023-05-21
 category: "dreams"

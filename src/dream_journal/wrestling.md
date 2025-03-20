@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: battle royale
 date: 2023-05-27
 category: "dreams"

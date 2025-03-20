@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: death race
 date: 2023-05-15
 category: "dreams"

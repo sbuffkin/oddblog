@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: boardwalk
 date: 2023-04-09
 category: "dreams"

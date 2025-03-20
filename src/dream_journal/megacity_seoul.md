@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: megacity seoul
 date: 2023-07-09
 category: "dreams"

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: large scary dog
 date: 2022-01-26
 category: "dreams"

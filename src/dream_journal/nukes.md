@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: swamp and nukes
 date: 2021-12-29
 category: "dreams"

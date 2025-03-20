@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: assassination mission
 date: 2024-10-23
 category: "dreams"

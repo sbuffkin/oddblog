@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: mansions
 date: 2021-12-30
 category: "dreams"

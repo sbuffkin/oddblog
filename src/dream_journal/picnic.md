@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: picnic
 date: 2024-11-08
 category: "dreams"

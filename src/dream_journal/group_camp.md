@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: illegal group camp
 date: 2024-01-12
 category: "dreams"

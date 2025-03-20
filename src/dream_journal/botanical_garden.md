@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: botanical garden
 date: 2022-02-20
 category: "dreams"

@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+<article class="article">
+  <h1>{{ title }}</h1>
+  <small>
+    dreamt: <time>{{ date | readableDate }}</time>
+  </small>
+  {{ content | safe }}
+  <br/>
+  {% include "../components/postsNav.njk" %}
+</article>
+

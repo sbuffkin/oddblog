@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: dream
 title: garage cleaning
 date: 2022-02-20
 category: "dreams"
