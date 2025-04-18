@@ -2,7 +2,7 @@ name: Deploy Weekly
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # Runs at midnight UTC every monday
+    - cron: '0 0 6 1-12 *' # Runs at midnight UTC every monday
   workflow_dispatch:
 
 concurrency: # prevent concurrent deploys doing strange things
