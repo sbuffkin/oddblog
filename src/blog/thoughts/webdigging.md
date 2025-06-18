@@ -1,7 +1,7 @@
 ---
 layout: article
 title: how to find interesting stuff on the internet.
-date: 2025-04-27
+date: 2025-06-17
 category: "tech"
 blog: true
 ---
