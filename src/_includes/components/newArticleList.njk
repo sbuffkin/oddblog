@@ -2,6 +2,7 @@
 <hr>
 <br/>
 
+
 <h2>a few random dreams</h2>
 <ul class="article__list">
 {% set articles = collections.randomdreams | limit(3) %}
@@ -15,13 +16,14 @@
       {% endmarkdown %}
       <small>
         <time>{{ article.data.date | readableDate }}</time>
-        <a class="category" href="/dream_journal/{{ article.data.category }}">{{ article.data.category }}</a>
       </small>
     </article>
   </li>
   {% endif %}
 {% endfor %}
 </ul>
+<a href="/dreams">dream diary</a>
+<br/>
 <br/>
 <hr>
 <br/>
