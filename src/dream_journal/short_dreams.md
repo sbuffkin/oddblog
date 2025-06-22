@@ -18,7 +18,7 @@ It still worked afterwards, unfortunately.
  
 <br>
 
-I somehow busted my thermos which i use every day. Much to my surpise, the interior was thing, and whats more, it wasn't metal! It was plastic. I felt ill at ease thinking I had been pouring boiling hot liquid into this for a long time.
+I somehow busted my thermos which i use every day. Much to my surpise, the interior was thin, and whats more, it wasn't metal! It was plastic. I felt ill at ease thinking I had been pouring boiling hot liquid into this for a long time.
 
 <br>
 
