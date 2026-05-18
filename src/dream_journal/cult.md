@@ -5,10 +5,6 @@ date: 2022-03-04
 category: "dreams"
 ---
 
-Somehow almost a full short story.
-<!-- excerpt -->
-
-
 I was in some kind of cult on a small shard-world, like a broken asteroid floating through the void. A massive mansion housed us. 
 
 The cult was made up of nun-like beings, beat-down sanitation workers, and whatever it was the group I belonged to was, likely the sacrifices, as we kept getting mocked by the nuns and received pity from the workers. It felt like we had been spirited away into this place and didn't belong here.

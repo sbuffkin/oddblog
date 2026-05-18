@@ -12,3 +12,6 @@ To make sure I have some level of motivation for this stuff, I plan to only upda
 
 * [bumpcafe](https://www.bumps.cafe/)
     * a mostly ambient collection of mostly my photography.
+
+* [hexmaker](https://community.obsidian.md/plugins/hexmaker)
+    * a free and open source plugin for obsidian for making hexmaps for tabletop gaming.

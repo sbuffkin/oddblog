@@ -27,7 +27,5 @@ If you would like to ask me about anything on here, or just to chat, feel free t
 <br>
 <br>
 
-Here's my site button if you so desire. It links to my soon-to-be-populated link directory for now:
-[{% image {src: "src/assets/buttons/button.png", alt: "my button", className: "image", widths: [88, 31] } %}](/directory)
-
-
+Here's my site button if you so desire.
+[{% image {src: "src/assets/buttons/button.png", alt: "my button", className: "image", widths: [88, 31] } %}](/misc)
